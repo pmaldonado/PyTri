@@ -97,6 +97,10 @@ Enjoy the pretty pictures!
 
 | Original | Entropy/Poisson Sampling |
 :---------------:|:----------:
+![](img/night_bay.jpg) | ![](img/night_bay_tri.png)
+
+| Original | Entropy/Poisson Sampling |
+:---------------:|:----------:
 ![](img/tulip.jpg) | ![](img/tulip_tri.png)
 
 
