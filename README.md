@@ -81,7 +81,7 @@ Enjoy the pretty pictures!
 
 | Original             |  Approx-Canny/Threshold Sampling |
 :-------------:|:----------:
-![](img/golden_gate.jpg) | ![](img/golden_gate_tri.png)
+![](img/golden-gate.jpg) | ![](img/golden-gate_tri.png)
 
 | Original             |  Approx-Canny/Threshold Sampling |
 :-------------:|:----------:
@@ -89,7 +89,7 @@ Enjoy the pretty pictures!
 
 | Entropy/Poisson Sampling  |  Entropy/Threshold Sampling |
 :-------------:|:----------:
-![](img/breadmond_tri.png) | ![](img/breadmond_tri_thresh.png)
+![](img/breadmond_tri_2.png) | ![](img/breadmond_tri_thresh.png)
 
 | Original | Entropy/Poisson Sampling |
 :---------------:|:----------:
